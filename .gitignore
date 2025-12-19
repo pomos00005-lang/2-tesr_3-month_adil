@@ -21,4 +21,6 @@ dist/
 README.md
 venv
 __pycache__
-db/products.db
+db/
+!db/
+!db/products.db
